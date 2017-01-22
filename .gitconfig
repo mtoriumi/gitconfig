@@ -1,6 +1,6 @@
 [core]
 	autocrlf = false
-  preloadindex = true
+	preloadindex = true
 	symlinks     = true
 	excludesfile = C:\\Users\\User\\Documents\\gitignore_global.txt
 [user]
