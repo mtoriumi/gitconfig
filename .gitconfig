@@ -1,0 +1,8 @@
+[core]
+	autocrlf = false
+  preloadindex = true
+	symlinks     = true
+	excludesfile = C:\\Users\\User\\Documents\\gitignore_global.txt
+[user]
+	name = MasahiroToriumi
+	email = m.toriumi@gmail.com
